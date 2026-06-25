@@ -234,6 +234,24 @@ The API cleans the output to keep the JSON compact and meaningful.
 
 ---
 
+## 📝 website realtime images
+
+*This is the overall window*
+<img width="1687" height="837" alt="Screenshot 2026-06-25 145702" src="https://github.com/user-attachments/assets/46a07449-616f-409d-803f-6af561751c8b" />
+
+*This is model selection filter*
+
+<img width="712" height="262" alt="Screenshot 2026-06-25 153810" src="https://github.com/user-attachments/assets/46a36fc6-ec0c-4282-a2c2-5747f459d03c" />
+
+*This is processing mode selection filter*
+
+<img width="701" height="167" alt="Screenshot 2026-06-25 153827" src="https://github.com/user-attachments/assets/6d50b31c-6bfd-49d5-837b-2b35eb72edac" />
+
+*This is the processing Queue*
+<img width="1770" height="300" alt="Screenshot 2026-06-25 153903" src="https://github.com/user-attachments/assets/798bc494-73a7-42ab-9c27-8837c947aaf3" />
+
+
+
 ## 🛠️ Common Errors & Fixes
 
 | Error message                                           | Cause                          | Fix                                                                 |
